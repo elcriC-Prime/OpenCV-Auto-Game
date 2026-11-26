@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">貓咪大戰爭自動腳本</string>
+    <string name="accessibility_service_label">貓咪大戰爭自動點擊服務</string>
+    <string name="accessibility_service_description">用來在辨識遊戲畫面後自動模擬點擊按鈕（僅在本機運作，不上傳任何資料）。</string>
+</resources>
